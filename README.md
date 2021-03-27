@@ -33,5 +33,5 @@ ATTENTION: the use of port scanners is illegal
 
 ## Get-Fi (Get Wi-Fi)
 It automatically retrieves all the data of all the wifi networks saved in the PC where the program is run.
-The program can only be used on Windows systems
-ATTENTION: use only on your own computer
+The program can only be used on Windows systems.
+ATTENTION: use only on your own computer.
